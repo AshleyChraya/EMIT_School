@@ -6,7 +6,7 @@
 
 2. Install pycbc and its dependencies using pip: pip install pycbc
 
-3. I just noticed that there is an error while initializing the EmceePT sampler in cell 14. The error is as follows:
+3. I just noticed that there is an error while initializing the EmceePT sampler in cell 14 of tutorial 1 under the section "Estimating the distance of GW170817". The error is as follows:
 
 "AttributeError: module 'numpy' has no attribute 'float'.`np.float` was a deprecated alias for the builtin `float`. To avoid this error in existing code, use `float` by itself. Doing this will not modify any behavior and is safe. If you specifically wanted the numpy scalar type, use `np.float64` here."
 
