@@ -1,6 +1,6 @@
 # EMIT_School
 
-## Set up pycbc in a new conda environment
+## Set up PyCBC in a new conda environment
 
 1. Create a new conda environment. Please follow the steps discussed here: https://code.visualstudio.com/docs/python/environments . I am using Python 3.9.16 Interpreter.
 
